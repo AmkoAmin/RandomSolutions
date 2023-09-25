@@ -4,6 +4,6 @@ color 02
 
 echo Der Code wird ausgefuehrt!
 
-python "C:\\dbildungscloud\\bildungscloud.py"
+python "C:\\Path\\autoOpen.py"
 
 timeout 3
